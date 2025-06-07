@@ -1,0 +1,5 @@
+section,metric_name,raw_value,percentile,order
+Value,Batting Run Value,10,89,1
+Batting,xwOBA,0.380,87,1
+Fielding,Range (OAA),0,46,1
+Running,Sprint Speed,27.2,48,1
